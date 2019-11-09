@@ -1,0 +1,22 @@
+.day-results {
+	text-align: center;
+}
+
+.day-results .games{ 
+	list-style: none;
+}
+
+.day-results .games .winner {
+	font-weight: 800;
+	color: #00e676;
+}
+
+.day-results .games .looser {
+	font-weight: 400;
+	color: #c62828;
+}
+
+.day-results .games .draw {
+	font-weight: 600;
+	color: #afb42b;
+}
