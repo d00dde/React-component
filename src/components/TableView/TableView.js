@@ -1,7 +1,7 @@
 import React from 'react';
 import source from '../../source.js'
 
-import './App.css';
+import './TableView.css';
 
 function mapDate (day) {
 	return {
